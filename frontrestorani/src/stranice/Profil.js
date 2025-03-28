@@ -1,0 +1,1 @@
+//da nema kao princip svi podaci, nego da se prikaze forma gde mogu da se izmene podaci 
